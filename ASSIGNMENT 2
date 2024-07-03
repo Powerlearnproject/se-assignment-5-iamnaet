@@ -1,0 +1,40 @@
+Installation of Visual Studio Code on Windows 11:
+To install Visual Studio Code (VS Code) on Windows 11, follow these steps:
+Visit the official VS Code download page.
+Click the download button for Windows.
+Run the downloaded installer (VSCodeUserSetup-{version}.exe).
+By default, VS Code is installed under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
+Alternatively, you can download the Zip archive, extract it, and run Code from there12.
+Prerequisites: None, as VS Code is a standalone application.
+First-time Setup:
+After installation, consider adjusting the following settings:
+Install extensions (e.g., “Python,” “Live Server,” “GitLens”).
+Customize keybindings, themes, and font size.
+Set up Git integration (if needed).
+User Interface Overview:
+Activity Bar: Provides quick access to different functionalities (e.g., Explorer, Source Control, Extensions).
+Side Bar: Contains panels like Explorer (file navigation), Search, and Extensions.
+Editor Group: Displays open files or split views.
+Status Bar: Shows information (e.g., line/column number, Git status).
+Command Palette:
+Access with Ctrl+Shift+P or Cmd+Shift+P (Mac).
+Perform tasks like formatting, changing settings, or running commands.
+Extensions in VS Code:
+Extensions enhance functionality (e.g., “ESLint,” “Prettier,” “Live Server”).
+Find and install extensions from the Extensions view (Ctrl+Shift+X).
+Integrated Terminal:
+Open with Ctrl+Backtick or from the View menu.
+Advantages: Seamless integration, no need for external terminals.
+File and Folder Management:
+Create files/folders in Explorer.
+Navigate using breadcrumbs or Ctrl+Tab/Ctrl+1,2,3 shortcuts.
+Settings and Preferences:
+Customize settings via File > Preferences > Settings.
+Examples: Change theme (e.g., “Dark+”), adjust font size, set keybindings.
+Debugging in VS Code:
+Set breakpoints, launch configurations.
+Use F5 or Debug menu to start debugging.
+Features: Watch variables, step through code, inspect call stack.
+Using Source Control:
+Initialize a Git repository (Ctrl+Shift+G).
+Make commits (Ctrl+Enter) and push changes to GitHub.
